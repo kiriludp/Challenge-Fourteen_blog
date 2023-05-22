@@ -1,0 +1,20 @@
+<h1>{{name}} by {{user.name}}</h1>
+<p>{{comment}}</p>
+
+
+<h3>Create a New Comment:</h3>
+
+    <form class="form new-comment-form">
+      <div class="form-group">
+        <form method="POST" action="/comment">
+        <div class="input-field">
+            <label>Comment:</label>
+            <textarea type="text" name="comment" rows="20" placeholder="What's on your mind?"></textarea>
+        </div>
+        <input type="hidden" name="article-id" value="{{article.id}}">
+        <button type="submit">Add Comment</button>
+    </form>
+      </div>
+    </form>
+  
+<script src="./js/comment.js"></script>

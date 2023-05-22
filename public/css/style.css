@@ -1,6 +1,62 @@
 header, .post:not(:last-child) {
   border-bottom: 1px solid #ccc;
+  background-color: #fccc84;
+  padding: 4px;
 }
+
+body {
+  background-color: #64345c;
+
+}
+
+h1 {
+  text-align: center;
+  background-color: #fc9451;
+  padding: 1%;
+  color:#6c3454;
+  font-family: 'Open Sans', sans-serif;
+  border-style: dashed;
+}
+
+h2 {
+  background-color: #64345c;
+  color:#fc9451
+}
+
+h3{
+  background-color: #64345c;
+  color: #fccc84;
+  text-align: center;
+}
+
+#logout{
+  background-color: #8c64ac;
+}
+
+p {
+  color:#d1cdcd;
+  border-style: double;
+  border-color: #bcbcbc;
+  text-indent: 2%;
+}
+
+.title {
+  color:#fc9451;
+}
+
+
+
+#make {
+  background-color: #d0a5ce;
+  color: #0c0c0c
+}
+
+.btn-danger {
+  background-color: #d0a5ce;
+  color: #0c0c0c
+}
+
+
 
 .no-button {
   background: none;
@@ -17,8 +73,4 @@ header, .post:not(:last-child) {
   text-decoration: underline;
 }
 
-.dollar-amount {
-  color: #056605;
-  font-weight: bold;
-  margin-left: -5px;
-}
+
