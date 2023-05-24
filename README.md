@@ -6,6 +6,10 @@ CMS-style blog site similar to a Wordpress site, where developers can publish th
 
 A CMS style blog where users can post, view, and comment on relavent topics.
 
+The page has the ability for the user to signup and login/logout. 
+
+The user can add/delete posts from their profile.
+
 ## Details
 
 <image src='assets\imgs\homepage.PNG'>
