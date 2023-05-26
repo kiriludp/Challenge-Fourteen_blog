@@ -10,6 +10,10 @@ The page has the ability for the user to signup and login/logout.
 
 The user can add/delete posts from their profile.
 
+Multiple users can have accounts and post blogs.
+
+All blog posts will be displayed on the homepage.
+
 ## Details
 
 <image src='assets\imgs\homepage.PNG'>
@@ -46,6 +50,10 @@ Phone View
 ## Special Thanks To
 
 UW Bootcamp Instructor, TAs, and Tutors 
+
+Referencing usability of Workspace
+
+W3Schools
 
 made to slay : キリキリ
 
