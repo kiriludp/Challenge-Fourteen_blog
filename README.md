@@ -14,6 +14,19 @@ Multiple users can have accounts and post blogs.
 
 All blog posts will be displayed on the homepage.
 
+## Installation
+
+The following NPMs must be included to use the app;
+
+bcrypt
+connect-session-sequelize
+dotenv
+express
+express-handlebars
+express-session
+mysql2
+sequelize
+
 ## Details
 
 <image src='assets\imgs\homepage.PNG'>
