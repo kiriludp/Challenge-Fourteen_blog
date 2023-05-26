@@ -29,7 +29,7 @@ sequelize
 
 ## Details
 
-<image src='assets\imgs\homepage.PNG'>
+<image src='assets\imgs\Homepage.PNG'>
 
 Homepage
 
